@@ -1,0 +1,30 @@
+# General
+.DS_Store
+.env
+.venv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+
+# Logs
+*.log
+
+# Editor-specific
+.vscode/
+.idea/
+
+# OS generated files
+.Trash
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
